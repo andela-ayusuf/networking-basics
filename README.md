@@ -87,10 +87,9 @@ This contains a list of questions to assess a fellows knowledge of the **Network
 	```
 
 	```
-	Packet size:	For IPv4, 576 bytes is required and fragmentation is optional while for IPv6 1280 bytes is required without fragmentation
+	Packet size: For IPv4, 576 bytes is required and fragmentation is optional while for IPv6 1280 bytes is required without fragmentation
 	```
 
 	```
 	NAT: (IPv4) Yes (IPv6) No
 	```
-	
